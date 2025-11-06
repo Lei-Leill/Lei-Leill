@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-### My name is Lei, a current third-year student studying CS at Caltech. My passion lies in AI, ML, and full-stack development. 
+### My name is Lei, a current third-year student studying CS at Caltech. 
+
+My passion lies in AI, ML, and full-stack development. 
+
+- 📫 How to reach me: llei@caltech.edu
+
 
 <!--
 **Lei-Leill/Lei-Leill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
