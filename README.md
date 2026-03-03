@@ -4,6 +4,9 @@
 
 My passion lies in AI, ML, and full-stack development. 
 
+- Currently doing research in evolutionary algorithm of LLM to optimize code generation
+- Previous works: built a Python multi-agent pipeline for research-grounded, calculation-verified reasoning that outputs quantitative economic report and added human-in-the-loop review to iteratively reduce errors.
+- Computational Biology project studying interpretability of CNN, Robotics Project in ROS and python
 - 📫 How to reach me: llei@caltech.edu
 
 
