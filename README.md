@@ -8,7 +8,7 @@ My passion lies in AI, ML, and full-stack development.
 - 💼 Experience: Built a Python multi-agent pipeline for research-grounded, calculation-verified reasoning (unit conversion, consistency checks) to generate quantitative economic reports, with human-in-the-loop review to reduce errors
 
 - 🤖 Projects: CNN interpretability in computational biology; robotics development with ROS (Python)
-- 
+  
 - 📫 Reach me: llei@caltech.edu
 
 
