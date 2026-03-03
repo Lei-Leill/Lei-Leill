@@ -3,11 +3,13 @@
 ### My name is Lei, a current third-year student studying CS at Caltech. 
 
 My passion lies in AI, ML, and full-stack development. 
+- 👩‍💻 Research: LLM-driven evolutionary algorithms to improve code generation and robustness
 
-- Currently doing research in evolutionary algorithm of LLM to optimize code generation
-- Previous works: built a Python multi-agent pipeline for research-grounded, calculation-verified reasoning that outputs quantitative economic report and added human-in-the-loop review to iteratively reduce errors.
-- Computational Biology project studying interpretability of CNN, Robotics Project in ROS and python
-- 📫 How to reach me: llei@caltech.edu
+- 💼 Experience: Built a Python multi-agent pipeline for research-grounded, calculation-verified reasoning (unit conversion, consistency checks) to generate quantitative economic reports, with human-in-the-loop review to reduce errors
+
+- 🤖 Projects: CNN interpretability in computational biology; robotics development with ROS (Python)
+- 
+- 📫 Reach me: llei@caltech.edu
 
 
 <!--
